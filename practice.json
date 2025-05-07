@@ -1,0 +1,57 @@
+{
+    "tripName": "summerVacation",
+
+    "traveler": {
+    
+        "name": "Jeff Lininger",
+
+            "contact": {
+                
+                "email": "someemail@gmail.com",
+                
+                "phone": "555-555-5555"
+
+            },
+
+            "destinations": {
+
+                "location1": "Saint Martin",
+
+                "arrivalDate1": 2025-08-01,
+
+                "departureDate1": 2025-08-04,
+
+                    "activity1": {
+
+                        "title": "swimming",
+
+                        "time": "11:00 AM"
+
+                    },
+
+                "location2": "Sint Maarten",
+
+                "arrivalDate2": 2025-08-01,
+
+                "departureDate2": 2025-08-04,
+
+                    "activity2": {
+
+                        "title": "relaxing",
+
+                        "time": "1:00 PM"
+
+
+                    }
+
+            }
+
+
+
+
+    }
+
+
+
+
+}
