@@ -3,49 +3,71 @@
 
     "traveler": {
     
-        "name": "Jeff Lininger",
+        "name": {
+            
+            "first": "Jeff",
+            
+            "last": "Lininger"
+        },
 
             "contact": {
                 
-                "email": "someemail@gmail.com",
+                "email": "someEmail@gmail.com",
                 
                 "phone": "555-555-5555"
 
-            },
+            }
 
-            "destinations": {
+        },
 
-                "location1": "Saint Martin",
+    
 
-                "arrivalDate1": 2025-08-01,
+            "destinations1": {
 
-                "departureDate1": 2025-08-04,
+                "location": "Saint Martin",
 
-                    "activity1": {
+                "arrivalDate": "2025-08-01",
 
-                        "title": "swimming",
+                "departureDate": "2025-08-04",
 
-                        "time": "11:00 AM"
+                    "activity": [{
 
-                    },
+                        "title1": "swimming",
 
-                "location2": "Sint Maarten",
+                        "time1": "11:00 AM",
 
-                "arrivalDate2": 2025-08-04,
+                        "title2": "lunch",
 
-                "departureDate2": 2025-08-08,
+                        "time2": "12:00 PM"
 
-                    "activity2": {
+                    }]
 
-                        "title": "relaxing",
+                },
 
-                        "time": "1:00 PM"
+            "destination2": {
 
+                "location": "Sint Maarten",
 
-                    }
+                "arrivalDate": "2025-08-04",
+
+                "departureDate": "2025-08-08",
+
+                    "activity": [{
+
+                        "title1": "relaxing",
+
+                        "time1": "1:00 PM",
+
+                        "title2": "shopping",
+
+                        "time2": "3:00 PM"
+
+                    }]
+
+                }
 
             }
 
-    }
+    
 
-}
+
